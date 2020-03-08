@@ -138,6 +138,8 @@ const thetaStram = createThetaStream();
 const results = map(
   radiusStream,
   (radius): SimulationResults => {
+    console.log(`Simulating at r=${radius}`);
+
     const distances = [
       ...take(createDistanceStream(5, thetaStram, radius), sampleSize),
     ];

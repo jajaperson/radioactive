@@ -115,6 +115,7 @@ function* createRadiusStream(significantFigures = 3) {
 const radiusStream = createRadiusStream(significantFigures);
 const thetaStram = createThetaStream();
 const results = map(radiusStream, (radius) => {
+    console.log(`Simulating at r=${radius}`);
     const distances = [
         ...take(createDistanceStream(5, thetaStram, radius), sampleSize),
     ];
