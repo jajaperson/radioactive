@@ -1,0 +1,2508 @@
+{
+  "date": "2020-03-08T13:33:49.678Z",
+  "steps": 5,
+  "sampleSize": 10000000,
+  "significantFigures": 3,
+  "results": [
+    {
+      "radius": 0.01,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.02,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.03,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.04,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.05,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.06,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.07,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.08,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.09,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.1,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.11,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.12,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.13,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.14,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.15,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.16,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.17,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.18,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.19,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.2,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.21,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.22,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.23,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.24,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.25,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.26,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.27,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.28,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.29,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.3,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.31,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.32,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.33,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.34,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.35000000000000003,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.36,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.37,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.38,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.39,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.4,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.41000000000000003,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.42,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.43,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.44,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.45,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.46,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.47000000000000003,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.48,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.49,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.5,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.51,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.52,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.53,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.54,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.55,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.56,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.5700000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.58,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.59,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.6,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.61,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.62,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.63,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.64,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.65,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.66,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.67,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.68,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.6900000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.7000000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.71,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.72,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.73,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.74,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.75,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.76,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.77,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.78,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.79,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.8,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.81,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.8200000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.8300000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.84,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.85,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.86,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.87,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.88,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.89,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.9,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.91,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.92,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.93,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.9400000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.9500000000000001,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.96,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.97,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.98,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 0.99,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 1,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 1.01,
+      "averageDistance": 1.511871111271153,
+      "percentEscaped": 99.08731
+    },
+    {
+      "radius": 1.02,
+      "averageDistance": 1.5154560604477751,
+      "percentEscaped": 99.01705
+    },
+    {
+      "radius": 1.03,
+      "averageDistance": 1.5196070547499598,
+      "percentEscaped": 98.938
+    },
+    {
+      "radius": 1.04,
+      "averageDistance": 1.5234927736986348,
+      "percentEscaped": 98.84847
+    },
+    {
+      "radius": 1.05,
+      "averageDistance": 1.5275655576236125,
+      "percentEscaped": 98.76536
+    },
+    {
+      "radius": 1.06,
+      "averageDistance": 1.5314356764440373,
+      "percentEscaped": 98.66716
+    },
+    {
+      "radius": 1.07,
+      "averageDistance": 1.5356161503201342,
+      "percentEscaped": 98.57796
+    },
+    {
+      "radius": 1.08,
+      "averageDistance": 1.539561432246664,
+      "percentEscaped": 98.466
+    },
+    {
+      "radius": 1.09,
+      "averageDistance": 1.5436293460050563,
+      "percentEscaped": 98.36099
+    },
+    {
+      "radius": 1.1,
+      "averageDistance": 1.547757022509817,
+      "percentEscaped": 98.2415
+    },
+    {
+      "radius": 1.11,
+      "averageDistance": 1.5518299456603022,
+      "percentEscaped": 98.12771000000001
+    },
+    {
+      "radius": 1.12,
+      "averageDistance": 1.5557434739915321,
+      "percentEscaped": 98.00268
+    },
+    {
+      "radius": 1.1300000000000001,
+      "averageDistance": 1.5598235809396923,
+      "percentEscaped": 97.86812
+    },
+    {
+      "radius": 1.1400000000000001,
+      "averageDistance": 1.5642204489419054,
+      "percentEscaped": 97.74038
+    },
+    {
+      "radius": 1.1500000000000001,
+      "averageDistance": 1.5683159253962355,
+      "percentEscaped": 97.59394
+    },
+    {
+      "radius": 1.16,
+      "averageDistance": 1.5726112134314607,
+      "percentEscaped": 97.45469
+    },
+    {
+      "radius": 1.17,
+      "averageDistance": 1.5768307348807755,
+      "percentEscaped": 97.30026000000001
+    },
+    {
+      "radius": 1.18,
+      "averageDistance": 1.5811173322867214,
+      "percentEscaped": 97.15182999999999
+    },
+    {
+      "radius": 1.19,
+      "averageDistance": 1.585362301026485,
+      "percentEscaped": 96.98763
+    },
+    {
+      "radius": 1.2,
+      "averageDistance": 1.589713900298083,
+      "percentEscaped": 96.82648
+    },
+    {
+      "radius": 1.21,
+      "averageDistance": 1.594007039114691,
+      "percentEscaped": 96.65415
+    },
+    {
+      "radius": 1.22,
+      "averageDistance": 1.5982475507689275,
+      "percentEscaped": 96.47282
+    },
+    {
+      "radius": 1.23,
+      "averageDistance": 1.6027703370406758,
+      "percentEscaped": 96.29794000000001
+    },
+    {
+      "radius": 1.24,
+      "averageDistance": 1.6068957274416529,
+      "percentEscaped": 96.09894
+    },
+    {
+      "radius": 1.25,
+      "averageDistance": 1.6113770518314818,
+      "percentEscaped": 95.91274
+    },
+    {
+      "radius": 1.26,
+      "averageDistance": 1.6158202195191025,
+      "percentEscaped": 95.71003
+    },
+    {
+      "radius": 1.27,
+      "averageDistance": 1.6202504145399397,
+      "percentEscaped": 95.51195
+    },
+    {
+      "radius": 1.28,
+      "averageDistance": 1.6248093135323258,
+      "percentEscaped": 95.30571
+    },
+    {
+      "radius": 1.29,
+      "averageDistance": 1.6291224782487896,
+      "percentEscaped": 95.06387
+    },
+    {
+      "radius": 1.3,
+      "averageDistance": 1.6336841362242744,
+      "percentEscaped": 94.85083
+    },
+    {
+      "radius": 1.31,
+      "averageDistance": 1.6379099717185417,
+      "percentEscaped": 94.61068
+    },
+    {
+      "radius": 1.32,
+      "averageDistance": 1.64264892356613,
+      "percentEscaped": 94.38555
+    },
+    {
+      "radius": 1.33,
+      "averageDistance": 1.6471272275749997,
+      "percentEscaped": 94.13629
+    },
+    {
+      "radius": 1.34,
+      "averageDistance": 1.6516096086368992,
+      "percentEscaped": 93.89217
+    },
+    {
+      "radius": 1.35,
+      "averageDistance": 1.6560275526885744,
+      "percentEscaped": 93.62472
+    },
+    {
+      "radius": 1.36,
+      "averageDistance": 1.6607789185698987,
+      "percentEscaped": 93.36542
+    },
+    {
+      "radius": 1.37,
+      "averageDistance": 1.6652401964949057,
+      "percentEscaped": 93.09428
+    },
+    {
+      "radius": 1.3800000000000001,
+      "averageDistance": 1.66983096084263,
+      "percentEscaped": 92.8249
+    },
+    {
+      "radius": 1.3900000000000001,
+      "averageDistance": 1.6745231054850114,
+      "percentEscaped": 92.56187
+    },
+    {
+      "radius": 1.4000000000000001,
+      "averageDistance": 1.6790400122710116,
+      "percentEscaped": 92.25181
+    },
+    {
+      "radius": 1.41,
+      "averageDistance": 1.6836592712705485,
+      "percentEscaped": 91.96957
+    },
+    {
+      "radius": 1.42,
+      "averageDistance": 1.6882265647251427,
+      "percentEscaped": 91.66364999999999
+    },
+    {
+      "radius": 1.43,
+      "averageDistance": 1.6931369968172543,
+      "percentEscaped": 91.37221
+    },
+    {
+      "radius": 1.44,
+      "averageDistance": 1.6976848264077447,
+      "percentEscaped": 91.05266
+    },
+    {
+      "radius": 1.45,
+      "averageDistance": 1.702323634883946,
+      "percentEscaped": 90.71758
+    },
+    {
+      "radius": 1.46,
+      "averageDistance": 1.7070196692605972,
+      "percentEscaped": 90.38515000000001
+    },
+    {
+      "radius": 1.47,
+      "averageDistance": 1.711730960034659,
+      "percentEscaped": 90.065
+    },
+    {
+      "radius": 1.48,
+      "averageDistance": 1.7164320081648483,
+      "percentEscaped": 89.7248
+    },
+    {
+      "radius": 1.49,
+      "averageDistance": 1.7211792747867316,
+      "percentEscaped": 89.36374
+    },
+    {
+      "radius": 1.5,
+      "averageDistance": 1.7259979167898174,
+      "percentEscaped": 89.02573000000001
+    },
+    {
+      "radius": 1.51,
+      "averageDistance": 1.7306693403283138,
+      "percentEscaped": 88.66103
+    },
+    {
+      "radius": 1.52,
+      "averageDistance": 1.7352232138881318,
+      "percentEscaped": 88.28829
+    },
+    {
+      "radius": 1.53,
+      "averageDistance": 1.7401064743580512,
+      "percentEscaped": 87.90929
+    },
+    {
+      "radius": 1.54,
+      "averageDistance": 1.745013226852686,
+      "percentEscaped": 87.55144
+    },
+    {
+      "radius": 1.55,
+      "averageDistance": 1.749535267660047,
+      "percentEscaped": 87.14005
+    },
+    {
+      "radius": 1.56,
+      "averageDistance": 1.7546533046487804,
+      "percentEscaped": 86.77485
+    },
+    {
+      "radius": 1.57,
+      "averageDistance": 1.759279638915319,
+      "percentEscaped": 86.37499
+    },
+    {
+      "radius": 1.58,
+      "averageDistance": 1.7639538220338697,
+      "percentEscaped": 85.94227
+    },
+    {
+      "radius": 1.59,
+      "averageDistance": 1.7687325302252215,
+      "percentEscaped": 85.53247999999999
+    },
+    {
+      "radius": 1.6,
+      "averageDistance": 1.773846234797204,
+      "percentEscaped": 85.13108
+    },
+    {
+      "radius": 1.61,
+      "averageDistance": 1.7783947137757197,
+      "percentEscaped": 84.69316
+    },
+    {
+      "radius": 1.62,
+      "averageDistance": 1.7833531083137217,
+      "percentEscaped": 84.26937
+    },
+    {
+      "radius": 1.6300000000000001,
+      "averageDistance": 1.7881221555246025,
+      "percentEscaped": 83.81174
+    },
+    {
+      "radius": 1.6400000000000001,
+      "averageDistance": 1.7928367042578564,
+      "percentEscaped": 83.35365
+    },
+    {
+      "radius": 1.6500000000000001,
+      "averageDistance": 1.7976545247418991,
+      "percentEscaped": 82.90293
+    },
+    {
+      "radius": 1.6600000000000001,
+      "averageDistance": 1.8027123074169695,
+      "percentEscaped": 82.4601
+    },
+    {
+      "radius": 1.67,
+      "averageDistance": 1.8075783263920988,
+      "percentEscaped": 81.98948
+    },
+    {
+      "radius": 1.68,
+      "averageDistance": 1.8121560696989603,
+      "percentEscaped": 81.50337
+    },
+    {
+      "radius": 1.69,
+      "averageDistance": 1.817248658311678,
+      "percentEscaped": 81.02931
+    },
+    {
+      "radius": 1.7,
+      "averageDistance": 1.822140373863394,
+      "percentEscaped": 80.54993999999999
+    },
+    {
+      "radius": 1.71,
+      "averageDistance": 1.8269968630943592,
+      "percentEscaped": 80.05001
+    },
+    {
+      "radius": 1.72,
+      "averageDistance": 1.832056885782243,
+      "percentEscaped": 79.56891999999999
+    },
+    {
+      "radius": 1.73,
+      "averageDistance": 1.8368943269716438,
+      "percentEscaped": 79.04347
+    },
+    {
+      "radius": 1.74,
+      "averageDistance": 1.842020221588005,
+      "percentEscaped": 78.54953
+    },
+    {
+      "radius": 1.75,
+      "averageDistance": 1.8466104534508698,
+      "percentEscaped": 78.01029
+    },
+    {
+      "radius": 1.76,
+      "averageDistance": 1.8515365185099777,
+      "percentEscaped": 77.49546000000001
+    },
+    {
+      "radius": 1.77,
+      "averageDistance": 1.8566660191157789,
+      "percentEscaped": 76.96382
+    },
+    {
+      "radius": 1.78,
+      "averageDistance": 1.8617374485627003,
+      "percentEscaped": 76.44668
+    },
+    {
+      "radius": 1.79,
+      "averageDistance": 1.8661408716344214,
+      "percentEscaped": 75.84787
+    },
+    {
+      "radius": 1.8,
+      "averageDistance": 1.871473676724365,
+      "percentEscaped": 75.32137
+    },
+    {
+      "radius": 1.81,
+      "averageDistance": 1.8765348994970308,
+      "percentEscaped": 74.77021
+    },
+    {
+      "radius": 1.82,
+      "averageDistance": 1.881108785011521,
+      "percentEscaped": 74.19404
+    },
+    {
+      "radius": 1.83,
+      "averageDistance": 1.886206660453866,
+      "percentEscaped": 73.63852
+    },
+    {
+      "radius": 1.84,
+      "averageDistance": 1.8910388166862462,
+      "percentEscaped": 73.04472
+    },
+    {
+      "radius": 1.85,
+      "averageDistance": 1.8962958847433378,
+      "percentEscaped": 72.48331
+    },
+    {
+      "radius": 1.86,
+      "averageDistance": 1.900710314393517,
+      "percentEscaped": 71.84536
+    },
+    {
+      "radius": 1.87,
+      "averageDistance": 1.905987592706066,
+      "percentEscaped": 71.28434
+    },
+    {
+      "radius": 1.8800000000000001,
+      "averageDistance": 1.9106038488716282,
+      "percentEscaped": 70.64328
+    },
+    {
+      "radius": 1.8900000000000001,
+      "averageDistance": 1.9156189222404878,
+      "percentEscaped": 70.04372
+    },
+    {
+      "radius": 1.9000000000000001,
+      "averageDistance": 1.9207844670625556,
+      "percentEscaped": 69.43364
+    },
+    {
+      "radius": 1.9100000000000001,
+      "averageDistance": 1.9259066563673328,
+      "percentEscaped": 68.81862
+    },
+    {
+      "radius": 1.92,
+      "averageDistance": 1.9309732747584518,
+      "percentEscaped": 68.2011
+    },
+    {
+      "radius": 1.93,
+      "averageDistance": 1.9355227774198513,
+      "percentEscaped": 67.54580999999999
+    },
+    {
+      "radius": 1.94,
+      "averageDistance": 1.9408756376753948,
+      "percentEscaped": 66.91106
+    },
+    {
+      "radius": 1.95,
+      "averageDistance": 1.9456605623256855,
+      "percentEscaped": 66.25229999999999
+    },
+    {
+      "radius": 1.96,
+      "averageDistance": 1.95076306786794,
+      "percentEscaped": 65.60473
+    },
+    {
+      "radius": 1.97,
+      "averageDistance": 1.955226894424507,
+      "percentEscaped": 64.91249
+    },
+    {
+      "radius": 1.98,
+      "averageDistance": 1.9608689466777716,
+      "percentEscaped": 64.29690000000001
+    },
+    {
+      "radius": 1.99,
+      "averageDistance": 1.965644860861877,
+      "percentEscaped": 63.605500000000006
+    },
+    {
+      "radius": 2,
+      "averageDistance": 1.9704469485606055,
+      "percentEscaped": 62.90511
+    },
+    {
+      "radius": 2.0100000000000002,
+      "averageDistance": 1.9723123074037996,
+      "percentEscaped": 62.377680000000005
+    },
+    {
+      "radius": 2.02,
+      "averageDistance": 1.974157002369216,
+      "percentEscaped": 61.86376
+    },
+    {
+      "radius": 2.0300000000000002,
+      "averageDistance": 1.9757802856258344,
+      "percentEscaped": 61.32056
+    },
+    {
+      "radius": 2.04,
+      "averageDistance": 1.9777564776890904,
+      "percentEscaped": 60.809760000000004
+    },
+    {
+      "radius": 2.05,
+      "averageDistance": 1.9797350953885764,
+      "percentEscaped": 60.27559
+    },
+    {
+      "radius": 2.06,
+      "averageDistance": 1.9813679839649707,
+      "percentEscaped": 59.7263
+    },
+    {
+      "radius": 2.07,
+      "averageDistance": 1.9830123951584324,
+      "percentEscaped": 59.20338
+    },
+    {
+      "radius": 2.08,
+      "averageDistance": 1.9852782365607202,
+      "percentEscaped": 58.697630000000004
+    },
+    {
+      "radius": 2.09,
+      "averageDistance": 1.9865223199954645,
+      "percentEscaped": 58.14717
+    },
+    {
+      "radius": 2.1,
+      "averageDistance": 1.9883516241085202,
+      "percentEscaped": 57.61442
+    },
+    {
+      "radius": 2.11,
+      "averageDistance": 1.9904153535493319,
+      "percentEscaped": 57.10158
+    },
+    {
+      "radius": 2.12,
+      "averageDistance": 1.9921969043451246,
+      "percentEscaped": 56.558719999999994
+    },
+    {
+      "radius": 2.13,
+      "averageDistance": 1.9935611718845774,
+      "percentEscaped": 56.021449999999994
+    },
+    {
+      "radius": 2.14,
+      "averageDistance": 1.9951996969833123,
+      "percentEscaped": 55.48618
+    },
+    {
+      "radius": 2.15,
+      "averageDistance": 1.99688609828922,
+      "percentEscaped": 54.906
+    },
+    {
+      "radius": 2.16,
+      "averageDistance": 1.9981810037356045,
+      "percentEscaped": 54.38593
+    },
+    {
+      "radius": 2.17,
+      "averageDistance": 1.9999192316979386,
+      "percentEscaped": 53.853280000000005
+    },
+    {
+      "radius": 2.18,
+      "averageDistance": 2.0017642789200076,
+      "percentEscaped": 53.357200000000006
+    },
+    {
+      "radius": 2.19,
+      "averageDistance": 2.0034185741676063,
+      "percentEscaped": 52.803239999999995
+    },
+    {
+      "radius": 2.2,
+      "averageDistance": 2.0046692357964715,
+      "percentEscaped": 52.25232
+    },
+    {
+      "radius": 2.21,
+      "averageDistance": 2.0060815751328556,
+      "percentEscaped": 51.72247
+    },
+    {
+      "radius": 2.22,
+      "averageDistance": 2.008030815928219,
+      "percentEscaped": 51.219840000000005
+    },
+    {
+      "radius": 2.23,
+      "averageDistance": 2.009514491943713,
+      "percentEscaped": 50.67501
+    },
+    {
+      "radius": 2.24,
+      "averageDistance": 2.0106661712829412,
+      "percentEscaped": 50.12617
+    },
+    {
+      "radius": 2.25,
+      "averageDistance": 2.0120237230903695,
+      "percentEscaped": 49.57637
+    },
+    {
+      "radius": 2.2600000000000002,
+      "averageDistance": 2.01358064853877,
+      "percentEscaped": 49.052820000000004
+    },
+    {
+      "radius": 2.27,
+      "averageDistance": 2.0150357991278023,
+      "percentEscaped": 48.52433
+    },
+    {
+      "radius": 2.2800000000000002,
+      "averageDistance": 2.016753892154163,
+      "percentEscaped": 48.01071
+    },
+    {
+      "radius": 2.29,
+      "averageDistance": 2.0178564357173845,
+      "percentEscaped": 47.4565
+    },
+    {
+      "radius": 2.3000000000000003,
+      "averageDistance": 2.019294201811103,
+      "percentEscaped": 46.93951
+    },
+    {
+      "radius": 2.31,
+      "averageDistance": 2.020799727640374,
+      "percentEscaped": 46.42741
+    },
+    {
+      "radius": 2.32,
+      "averageDistance": 2.022133855421526,
+      "percentEscaped": 45.894
+    },
+    {
+      "radius": 2.33,
+      "averageDistance": 2.0235279879035772,
+      "percentEscaped": 45.373439999999995
+    },
+    {
+      "radius": 2.34,
+      "averageDistance": 2.024186567912855,
+      "percentEscaped": 44.79802
+    },
+    {
+      "radius": 2.35,
+      "averageDistance": 2.026264973573709,
+      "percentEscaped": 44.323820000000005
+    },
+    {
+      "radius": 2.36,
+      "averageDistance": 2.0270556642017232,
+      "percentEscaped": 43.7853
+    },
+    {
+      "radius": 2.37,
+      "averageDistance": 2.028107382947801,
+      "percentEscaped": 43.23849
+    },
+    {
+      "radius": 2.38,
+      "averageDistance": 2.0296557652611855,
+      "percentEscaped": 42.74485
+    },
+    {
+      "radius": 2.39,
+      "averageDistance": 2.0309194633206835,
+      "percentEscaped": 42.20605
+    },
+    {
+      "radius": 2.4,
+      "averageDistance": 2.0318188621414963,
+      "percentEscaped": 41.677530000000004
+    },
+    {
+      "radius": 2.41,
+      "averageDistance": 2.033295952667852,
+      "percentEscaped": 41.2051
+    },
+    {
+      "radius": 2.42,
+      "averageDistance": 2.0344584418991185,
+      "percentEscaped": 40.67563
+    },
+    {
+      "radius": 2.43,
+      "averageDistance": 2.035955455536811,
+      "percentEscaped": 40.1731
+    },
+    {
+      "radius": 2.44,
+      "averageDistance": 2.0365350764684567,
+      "percentEscaped": 39.64768
+    },
+    {
+      "radius": 2.45,
+      "averageDistance": 2.0379589432959837,
+      "percentEscaped": 39.14862
+    },
+    {
+      "radius": 2.46,
+      "averageDistance": 2.0391977211453227,
+      "percentEscaped": 38.65338
+    },
+    {
+      "radius": 2.47,
+      "averageDistance": 2.039729403017324,
+      "percentEscaped": 38.112230000000004
+    },
+    {
+      "radius": 2.48,
+      "averageDistance": 2.04138335154821,
+      "percentEscaped": 37.64284
+    },
+    {
+      "radius": 2.49,
+      "averageDistance": 2.0425652377706727,
+      "percentEscaped": 37.15241
+    },
+    {
+      "radius": 2.5,
+      "averageDistance": 2.0432006696423106,
+      "percentEscaped": 36.62993
+    },
+    {
+      "radius": 2.5100000000000002,
+      "averageDistance": 2.044282101426887,
+      "percentEscaped": 36.136430000000004
+    },
+    {
+      "radius": 2.52,
+      "averageDistance": 2.0455114342768836,
+      "percentEscaped": 35.65772
+    },
+    {
+      "radius": 2.5300000000000002,
+      "averageDistance": 2.046354634241489,
+      "percentEscaped": 35.17417
+    },
+    {
+      "radius": 2.54,
+      "averageDistance": 2.04770383593881,
+      "percentEscaped": 34.685700000000004
+    },
+    {
+      "radius": 2.5500000000000003,
+      "averageDistance": 2.0488980672188135,
+      "percentEscaped": 34.22617
+    },
+    {
+      "radius": 2.56,
+      "averageDistance": 2.049167383521104,
+      "percentEscaped": 33.71372
+    },
+    {
+      "radius": 2.57,
+      "averageDistance": 2.0502998267918415,
+      "percentEscaped": 33.21774
+    },
+    {
+      "radius": 2.58,
+      "averageDistance": 2.0511176714064376,
+      "percentEscaped": 32.77008
+    },
+    {
+      "radius": 2.59,
+      "averageDistance": 2.052307891637811,
+      "percentEscaped": 32.29458
+    },
+    {
+      "radius": 2.6,
+      "averageDistance": 2.0530288763565387,
+      "percentEscaped": 31.81717
+    },
+    {
+      "radius": 2.61,
+      "averageDistance": 2.053814815717512,
+      "percentEscaped": 31.348910000000004
+    },
+    {
+      "radius": 2.62,
+      "averageDistance": 2.054714048390971,
+      "percentEscaped": 30.889100000000003
+    },
+    {
+      "radius": 2.63,
+      "averageDistance": 2.055241602831123,
+      "percentEscaped": 30.405749999999998
+    },
+    {
+      "radius": 2.64,
+      "averageDistance": 2.0563031943146077,
+      "percentEscaped": 29.972130000000003
+    },
+    {
+      "radius": 2.65,
+      "averageDistance": 2.057178955524277,
+      "percentEscaped": 29.53437
+    },
+    {
+      "radius": 2.66,
+      "averageDistance": 2.0581960329147657,
+      "percentEscaped": 29.07108
+    },
+    {
+      "radius": 2.67,
+      "averageDistance": 2.0581832551324535,
+      "percentEscaped": 28.59594
+    },
+    {
+      "radius": 2.68,
+      "averageDistance": 2.0599305721363907,
+      "percentEscaped": 28.187060000000002
+    },
+    {
+      "radius": 2.69,
+      "averageDistance": 2.060372940510876,
+      "percentEscaped": 27.741739999999997
+    },
+    {
+      "radius": 2.7,
+      "averageDistance": 2.0603389934065555,
+      "percentEscaped": 27.271430000000002
+    },
+    {
+      "radius": 2.71,
+      "averageDistance": 2.061396764850313,
+      "percentEscaped": 26.861020000000003
+    },
+    {
+      "radius": 2.72,
+      "averageDistance": 2.0619884263320256,
+      "percentEscaped": 26.437070000000002
+    },
+    {
+      "radius": 2.73,
+      "averageDistance": 2.063378360368361,
+      "percentEscaped": 26.058989999999998
+    },
+    {
+      "radius": 2.74,
+      "averageDistance": 2.0635138533744013,
+      "percentEscaped": 25.60423
+    },
+    {
+      "radius": 2.75,
+      "averageDistance": 2.0640827394372927,
+      "percentEscaped": 25.154
+    },
+    {
+      "radius": 2.7600000000000002,
+      "averageDistance": 2.0646944710433726,
+      "percentEscaped": 24.75446
+    },
+    {
+      "radius": 2.77,
+      "averageDistance": 2.0652286661297357,
+      "percentEscaped": 24.33652
+    },
+    {
+      "radius": 2.7800000000000002,
+      "averageDistance": 2.0658269651522487,
+      "percentEscaped": 23.942050000000002
+    },
+    {
+      "radius": 2.79,
+      "averageDistance": 2.066874883847151,
+      "percentEscaped": 23.55184
+    },
+    {
+      "radius": 2.8000000000000003,
+      "averageDistance": 2.0671077869487338,
+      "percentEscaped": 23.14566
+    },
+    {
+      "radius": 2.81,
+      "averageDistance": 2.067672390406659,
+      "percentEscaped": 22.747139999999998
+    },
+    {
+      "radius": 2.82,
+      "averageDistance": 2.0682813947930767,
+      "percentEscaped": 22.36083
+    },
+    {
+      "radius": 2.83,
+      "averageDistance": 2.068523091569748,
+      "percentEscaped": 21.973570000000002
+    },
+    {
+      "radius": 2.84,
+      "averageDistance": 2.0696099207577805,
+      "percentEscaped": 21.61281
+    },
+    {
+      "radius": 2.85,
+      "averageDistance": 2.069508149549855,
+      "percentEscaped": 21.22432
+    },
+    {
+      "radius": 2.86,
+      "averageDistance": 2.0702818186651517,
+      "percentEscaped": 20.860799999999998
+    },
+    {
+      "radius": 2.87,
+      "averageDistance": 2.070862846030296,
+      "percentEscaped": 20.49991
+    },
+    {
+      "radius": 2.88,
+      "averageDistance": 2.0709983961176808,
+      "percentEscaped": 20.13084
+    },
+    {
+      "radius": 2.89,
+      "averageDistance": 2.0709520508484642,
+      "percentEscaped": 19.74517
+    },
+    {
+      "radius": 2.9,
+      "averageDistance": 2.0716272911204254,
+      "percentEscaped": 19.44214
+    },
+    {
+      "radius": 2.91,
+      "averageDistance": 2.072355737502456,
+      "percentEscaped": 19.10701
+    },
+    {
+      "radius": 2.92,
+      "averageDistance": 2.072588368089129,
+      "percentEscaped": 18.753
+    },
+    {
+      "radius": 2.93,
+      "averageDistance": 2.0728227218229236,
+      "percentEscaped": 18.41004
+    },
+    {
+      "radius": 2.94,
+      "averageDistance": 2.0730971763950685,
+      "percentEscaped": 18.073719999999998
+    },
+    {
+      "radius": 2.95,
+      "averageDistance": 2.0732547990016053,
+      "percentEscaped": 17.73949
+    },
+    {
+      "radius": 2.96,
+      "averageDistance": 2.0734534054194307,
+      "percentEscaped": 17.41023
+    },
+    {
+      "radius": 2.97,
+      "averageDistance": 2.074155257208869,
+      "percentEscaped": 17.106930000000002
+    },
+    {
+      "radius": 2.98,
+      "averageDistance": 2.074373000826937,
+      "percentEscaped": 16.825290000000003
+    },
+    {
+      "radius": 2.99,
+      "averageDistance": 2.074481465123493,
+      "percentEscaped": 16.48675
+    },
+    {
+      "radius": 3,
+      "averageDistance": 2.0742004011245454,
+      "percentEscaped": 16.19069
+    },
+    {
+      "radius": 3.0100000000000002,
+      "averageDistance": 2.074571368938305,
+      "percentEscaped": 15.906110000000002
+    },
+    {
+      "radius": 3.02,
+      "averageDistance": 2.0746551224746512,
+      "percentEscaped": 15.59489
+    },
+    {
+      "radius": 3.0300000000000002,
+      "averageDistance": 2.0751553678213,
+      "percentEscaped": 15.33678
+    },
+    {
+      "radius": 3.04,
+      "averageDistance": 2.075797185455216,
+      "percentEscaped": 15.04758
+    },
+    {
+      "radius": 3.0500000000000003,
+      "averageDistance": 2.0757101618905356,
+      "percentEscaped": 14.76732
+    },
+    {
+      "radius": 3.06,
+      "averageDistance": 2.0760283070541776,
+      "percentEscaped": 14.48691
+    },
+    {
+      "radius": 3.0700000000000003,
+      "averageDistance": 2.075886804398194,
+      "percentEscaped": 14.20862
+    },
+    {
+      "radius": 3.08,
+      "averageDistance": 2.0764368058521128,
+      "percentEscaped": 13.94109
+    },
+    {
+      "radius": 3.09,
+      "averageDistance": 2.0763546823614294,
+      "percentEscaped": 13.665
+    },
+    {
+      "radius": 3.1,
+      "averageDistance": 2.0759851232382487,
+      "percentEscaped": 13.36956
+    },
+    {
+      "radius": 3.11,
+      "averageDistance": 2.0765631655559886,
+      "percentEscaped": 13.11878
+    },
+    {
+      "radius": 3.12,
+      "averageDistance": 2.077106194050347,
+      "percentEscaped": 12.87412
+    },
+    {
+      "radius": 3.13,
+      "averageDistance": 2.0775944360849645,
+      "percentEscaped": 12.63807
+    },
+    {
+      "radius": 3.14,
+      "averageDistance": 2.077327051444935,
+      "percentEscaped": 12.35017
+    },
+    {
+      "radius": 3.15,
+      "averageDistance": 2.0775084993153645,
+      "percentEscaped": 12.11688
+    },
+    {
+      "radius": 3.16,
+      "averageDistance": 2.077536984570532,
+      "percentEscaped": 11.87928
+    },
+    {
+      "radius": 3.17,
+      "averageDistance": 2.0780916921937487,
+      "percentEscaped": 11.64231
+    },
+    {
+      "radius": 3.18,
+      "averageDistance": 2.0773110443875136,
+      "percentEscaped": 11.37466
+    },
+    {
+      "radius": 3.19,
+      "averageDistance": 2.077861465073168,
+      "percentEscaped": 11.14903
+    },
+    {
+      "radius": 3.2,
+      "averageDistance": 2.0777948383828932,
+      "percentEscaped": 10.93113
+    },
+    {
+      "radius": 3.21,
+      "averageDistance": 2.078645918088912,
+      "percentEscaped": 10.7014
+    },
+    {
+      "radius": 3.22,
+      "averageDistance": 2.078822345465584,
+      "percentEscaped": 10.47117
+    },
+    {
+      "radius": 3.23,
+      "averageDistance": 2.078589710938936,
+      "percentEscaped": 10.24953
+    },
+    {
+      "radius": 3.24,
+      "averageDistance": 2.0784932433444094,
+      "percentEscaped": 10.01459
+    },
+    {
+      "radius": 3.25,
+      "averageDistance": 2.078676711365383,
+      "percentEscaped": 9.81219
+    },
+    {
+      "radius": 3.2600000000000002,
+      "averageDistance": 2.0787024948175707,
+      "percentEscaped": 9.59527
+    },
+    {
+      "radius": 3.27,
+      "averageDistance": 2.0786725868222033,
+      "percentEscaped": 9.37531
+    },
+    {
+      "radius": 3.2800000000000002,
+      "averageDistance": 2.0789710258594565,
+      "percentEscaped": 9.16179
+    },
+    {
+      "radius": 3.29,
+      "averageDistance": 2.079999234325863,
+      "percentEscaped": 8.985999999999999
+    },
+    {
+      "radius": 3.3000000000000003,
+      "averageDistance": 2.0791165133010905,
+      "percentEscaped": 8.775189999999998
+    },
+    {
+      "radius": 3.31,
+      "averageDistance": 2.0791032350412046,
+      "percentEscaped": 8.56222
+    },
+    {
+      "radius": 3.3200000000000003,
+      "averageDistance": 2.0787735724629126,
+      "percentEscaped": 8.35867
+    },
+    {
+      "radius": 3.33,
+      "averageDistance": 2.079550125205906,
+      "percentEscaped": 8.19164
+    },
+    {
+      "radius": 3.34,
+      "averageDistance": 2.079740930747565,
+      "percentEscaped": 7.98022
+    },
+    {
+      "radius": 3.35,
+      "averageDistance": 2.079375874716203,
+      "percentEscaped": 7.79288
+    },
+    {
+      "radius": 3.36,
+      "averageDistance": 2.079846807263906,
+      "percentEscaped": 7.63031
+    },
+    {
+      "radius": 3.37,
+      "averageDistance": 2.0796590748706283,
+      "percentEscaped": 7.4309899999999995
+    },
+    {
+      "radius": 3.38,
+      "averageDistance": 2.0799056927597763,
+      "percentEscaped": 7.260759999999999
+    },
+    {
+      "radius": 3.39,
+      "averageDistance": 2.080466472533632,
+      "percentEscaped": 7.091359999999999
+    },
+    {
+      "radius": 3.4,
+      "averageDistance": 2.0798073909800627,
+      "percentEscaped": 6.9062600000000005
+    },
+    {
+      "radius": 3.41,
+      "averageDistance": 2.0801924609811926,
+      "percentEscaped": 6.7508
+    },
+    {
+      "radius": 3.42,
+      "averageDistance": 2.0803316799818385,
+      "percentEscaped": 6.582649999999999
+    },
+    {
+      "radius": 3.43,
+      "averageDistance": 2.0803949194041533,
+      "percentEscaped": 6.42018
+    },
+    {
+      "radius": 3.44,
+      "averageDistance": 2.080473178788132,
+      "percentEscaped": 6.259620000000001
+    },
+    {
+      "radius": 3.45,
+      "averageDistance": 2.0805732479155816,
+      "percentEscaped": 6.10757
+    },
+    {
+      "radius": 3.46,
+      "averageDistance": 2.080094989241058,
+      "percentEscaped": 5.941409999999999
+    },
+    {
+      "radius": 3.47,
+      "averageDistance": 2.0808258723225403,
+      "percentEscaped": 5.7891900000000005
+    },
+    {
+      "radius": 3.48,
+      "averageDistance": 2.0804566920831093,
+      "percentEscaped": 5.6371400000000005
+    },
+    {
+      "radius": 3.49,
+      "averageDistance": 2.081450944933027,
+      "percentEscaped": 5.51173
+    },
+    {
+      "radius": 3.5,
+      "averageDistance": 2.080222352509828,
+      "percentEscaped": 5.34807
+    },
+    {
+      "radius": 3.5100000000000002,
+      "averageDistance": 2.0806696048928104,
+      "percentEscaped": 5.211720000000001
+    },
+    {
+      "radius": 3.52,
+      "averageDistance": 2.080845277763054,
+      "percentEscaped": 5.0820799999999995
+    },
+    {
+      "radius": 3.5300000000000002,
+      "averageDistance": 2.0812504679997423,
+      "percentEscaped": 4.94247
+    },
+    {
+      "radius": 3.54,
+      "averageDistance": 2.0808904181028813,
+      "percentEscaped": 4.81768
+    },
+    {
+      "radius": 3.5500000000000003,
+      "averageDistance": 2.08102324116922,
+      "percentEscaped": 4.6775400000000005
+    },
+    {
+      "radius": 3.56,
+      "averageDistance": 2.081138095955001,
+      "percentEscaped": 4.55269
+    },
+    {
+      "radius": 3.5700000000000003,
+      "averageDistance": 2.0806193036432785,
+      "percentEscaped": 4.41633
+    },
+    {
+      "radius": 3.58,
+      "averageDistance": 2.081012774898335,
+      "percentEscaped": 4.3070900000000005
+    },
+    {
+      "radius": 3.59,
+      "averageDistance": 2.0809721582361216,
+      "percentEscaped": 4.18684
+    },
+    {
+      "radius": 3.6,
+      "averageDistance": 2.081618649521115,
+      "percentEscaped": 4.0755300000000005
+    },
+    {
+      "radius": 3.61,
+      "averageDistance": 2.081075588401857,
+      "percentEscaped": 3.94966
+    },
+    {
+      "radius": 3.62,
+      "averageDistance": 2.081292511302529,
+      "percentEscaped": 3.84517
+    },
+    {
+      "radius": 3.63,
+      "averageDistance": 2.0813074528651945,
+      "percentEscaped": 3.7294
+    },
+    {
+      "radius": 3.64,
+      "averageDistance": 2.081559575680466,
+      "percentEscaped": 3.63222
+    },
+    {
+      "radius": 3.65,
+      "averageDistance": 2.0809159912561346,
+      "percentEscaped": 3.50703
+    },
+    {
+      "radius": 3.66,
+      "averageDistance": 2.081228889246095,
+      "percentEscaped": 3.43011
+    },
+    {
+      "radius": 3.67,
+      "averageDistance": 2.081155664034551,
+      "percentEscaped": 3.3161799999999997
+    },
+    {
+      "radius": 3.68,
+      "averageDistance": 2.081196972715103,
+      "percentEscaped": 3.21672
+    },
+    {
+      "radius": 3.69,
+      "averageDistance": 2.08104494794111,
+      "percentEscaped": 3.12208
+    },
+    {
+      "radius": 3.7,
+      "averageDistance": 2.0814391039180955,
+      "percentEscaped": 3.0375900000000002
+    },
+    {
+      "radius": 3.71,
+      "averageDistance": 2.0808860841278722,
+      "percentEscaped": 2.93594
+    },
+    {
+      "radius": 3.72,
+      "averageDistance": 2.081282791166907,
+      "percentEscaped": 2.8468
+    },
+    {
+      "radius": 3.73,
+      "averageDistance": 2.081351531267508,
+      "percentEscaped": 2.766
+    },
+    {
+      "radius": 3.74,
+      "averageDistance": 2.08123249181419,
+      "percentEscaped": 2.67507
+    },
+    {
+      "radius": 3.75,
+      "averageDistance": 2.0815713269659137,
+      "percentEscaped": 2.5922
+    },
+    {
+      "radius": 3.7600000000000002,
+      "averageDistance": 2.081877791443637,
+      "percentEscaped": 2.51441
+    },
+    {
+      "radius": 3.77,
+      "averageDistance": 2.081563846313709,
+      "percentEscaped": 2.44243
+    },
+    {
+      "radius": 3.7800000000000002,
+      "averageDistance": 2.0819929395063417,
+      "percentEscaped": 2.35948
+    },
+    {
+      "radius": 3.79,
+      "averageDistance": 2.0813525347924395,
+      "percentEscaped": 2.2858
+    },
+    {
+      "radius": 3.8000000000000003,
+      "averageDistance": 2.081385192601303,
+      "percentEscaped": 2.2017599999999997
+    },
+    {
+      "radius": 3.81,
+      "averageDistance": 2.0818537895480826,
+      "percentEscaped": 2.14436
+    },
+    {
+      "radius": 3.8200000000000003,
+      "averageDistance": 2.0814243658810025,
+      "percentEscaped": 2.0643499999999997
+    },
+    {
+      "radius": 3.83,
+      "averageDistance": 2.08111214860512,
+      "percentEscaped": 1.99942
+    },
+    {
+      "radius": 3.84,
+      "averageDistance": 2.081611083863753,
+      "percentEscaped": 1.9243400000000002
+    },
+    {
+      "radius": 3.85,
+      "averageDistance": 2.0817133962898815,
+      "percentEscaped": 1.87127
+    },
+    {
+      "radius": 3.86,
+      "averageDistance": 2.0815492082735503,
+      "percentEscaped": 1.8074
+    },
+    {
+      "radius": 3.87,
+      "averageDistance": 2.0812536578917062,
+      "percentEscaped": 1.74921
+    },
+    {
+      "radius": 3.88,
+      "averageDistance": 2.0813416843993493,
+      "percentEscaped": 1.6890200000000002
+    },
+    {
+      "radius": 3.89,
+      "averageDistance": 2.0816281738776112,
+      "percentEscaped": 1.6371799999999999
+    },
+    {
+      "radius": 3.9,
+      "averageDistance": 2.0812060947641013,
+      "percentEscaped": 1.57039
+    },
+    {
+      "radius": 3.91,
+      "averageDistance": 2.0817854202025003,
+      "percentEscaped": 1.5119799999999999
+    },
+    {
+      "radius": 3.92,
+      "averageDistance": 2.081376730477819,
+      "percentEscaped": 1.4699200000000001
+    },
+    {
+      "radius": 3.93,
+      "averageDistance": 2.0819564573874763,
+      "percentEscaped": 1.41487
+    },
+    {
+      "radius": 3.94,
+      "averageDistance": 2.0814049294166446,
+      "percentEscaped": 1.36827
+    },
+    {
+      "radius": 3.95,
+      "averageDistance": 2.081681743091956,
+      "percentEscaped": 1.32142
+    },
+    {
+      "radius": 3.96,
+      "averageDistance": 2.081659934234601,
+      "percentEscaped": 1.2698900000000002
+    },
+    {
+      "radius": 3.97,
+      "averageDistance": 2.0815280080754506,
+      "percentEscaped": 1.22635
+    },
+    {
+      "radius": 3.98,
+      "averageDistance": 2.081910160126769,
+      "percentEscaped": 1.1794799999999999
+    },
+    {
+      "radius": 3.99,
+      "averageDistance": 2.0813689839948157,
+      "percentEscaped": 1.13369
+    },
+    {
+      "radius": 4,
+      "averageDistance": 2.0816984984705833,
+      "percentEscaped": 1.09951
+    },
+    {
+      "radius": 4.01,
+      "averageDistance": 2.0814496144107335,
+      "percentEscaped": 1.05603
+    },
+    {
+      "radius": 4.0200000000000005,
+      "averageDistance": 2.0813895080587512,
+      "percentEscaped": 1.01245
+    },
+    {
+      "radius": 4.03,
+      "averageDistance": 2.0811961236985006,
+      "percentEscaped": 0.97109
+    },
+    {
+      "radius": 4.04,
+      "averageDistance": 2.0819202714950906,
+      "percentEscaped": 0.93784
+    },
+    {
+      "radius": 4.05,
+      "averageDistance": 2.081468697024303,
+      "percentEscaped": 0.89362
+    },
+    {
+      "radius": 4.0600000000000005,
+      "averageDistance": 2.0815037436314854,
+      "percentEscaped": 0.8568299999999999
+    },
+    {
+      "radius": 4.07,
+      "averageDistance": 2.081362147911304,
+      "percentEscaped": 0.8281999999999999
+    },
+    {
+      "radius": 4.08,
+      "averageDistance": 2.081466954007849,
+      "percentEscaped": 0.79378
+    },
+    {
+      "radius": 4.09,
+      "averageDistance": 2.0816465855465327,
+      "percentEscaped": 0.75721
+    },
+    {
+      "radius": 4.1,
+      "averageDistance": 2.081363682069775,
+      "percentEscaped": 0.7314700000000001
+    },
+    {
+      "radius": 4.11,
+      "averageDistance": 2.081915137806255,
+      "percentEscaped": 0.70479
+    },
+    {
+      "radius": 4.12,
+      "averageDistance": 2.081533892001251,
+      "percentEscaped": 0.67488
+    },
+    {
+      "radius": 4.13,
+      "averageDistance": 2.0813156536640554,
+      "percentEscaped": 0.64167
+    },
+    {
+      "radius": 4.14,
+      "averageDistance": 2.0813779219567627,
+      "percentEscaped": 0.61237
+    },
+    {
+      "radius": 4.15,
+      "averageDistance": 2.081683360050403,
+      "percentEscaped": 0.58663
+    },
+    {
+      "radius": 4.16,
+      "averageDistance": 2.0815172667159683,
+      "percentEscaped": 0.56124
+    },
+    {
+      "radius": 4.17,
+      "averageDistance": 2.0811859520015257,
+      "percentEscaped": 0.5364599999999999
+    },
+    {
+      "radius": 4.18,
+      "averageDistance": 2.0810155620689557,
+      "percentEscaped": 0.50775
+    },
+    {
+      "radius": 4.19,
+      "averageDistance": 2.081956964715523,
+      "percentEscaped": 0.48973
+    },
+    {
+      "radius": 4.2,
+      "averageDistance": 2.081909354309908,
+      "percentEscaped": 0.46235
+    },
+    {
+      "radius": 4.21,
+      "averageDistance": 2.0813895244931224,
+      "percentEscaped": 0.44373
+    },
+    {
+      "radius": 4.22,
+      "averageDistance": 2.0815672010567217,
+      "percentEscaped": 0.42138999999999993
+    },
+    {
+      "radius": 4.23,
+      "averageDistance": 2.081846505902825,
+      "percentEscaped": 0.40245000000000003
+    },
+    {
+      "radius": 4.24,
+      "averageDistance": 2.081228681094357,
+      "percentEscaped": 0.37788
+    },
+    {
+      "radius": 4.25,
+      "averageDistance": 2.081568005501052,
+      "percentEscaped": 0.3623
+    },
+    {
+      "radius": 4.26,
+      "averageDistance": 2.081847018185394,
+      "percentEscaped": 0.34576
+    },
+    {
+      "radius": 4.2700000000000005,
+      "averageDistance": 2.081336249193349,
+      "percentEscaped": 0.32865
+    },
+    {
+      "radius": 4.28,
+      "averageDistance": 2.0814490819611047,
+      "percentEscaped": 0.31105
+    },
+    {
+      "radius": 4.29,
+      "averageDistance": 2.0814251179383128,
+      "percentEscaped": 0.29263
+    },
+    {
+      "radius": 4.3,
+      "averageDistance": 2.081703750419782,
+      "percentEscaped": 0.27554
+    },
+    {
+      "radius": 4.3100000000000005,
+      "averageDistance": 2.081212502952141,
+      "percentEscaped": 0.26272
+    },
+    {
+      "radius": 4.32,
+      "averageDistance": 2.081302163394764,
+      "percentEscaped": 0.2483
+    },
+    {
+      "radius": 4.33,
+      "averageDistance": 2.0815358285813947,
+      "percentEscaped": 0.23454999999999998
+    },
+    {
+      "radius": 4.34,
+      "averageDistance": 2.0819271537662707,
+      "percentEscaped": 0.2199
+    },
+    {
+      "radius": 4.3500000000000005,
+      "averageDistance": 2.081472270689441,
+      "percentEscaped": 0.20951
+    },
+    {
+      "radius": 4.36,
+      "averageDistance": 2.0814368674992587,
+      "percentEscaped": 0.19777000000000003
+    },
+    {
+      "radius": 4.37,
+      "averageDistance": 2.0814127275187437,
+      "percentEscaped": 0.18220999999999998
+    },
+    {
+      "radius": 4.38,
+      "averageDistance": 2.081672045987698,
+      "percentEscaped": 0.1741
+    },
+    {
+      "radius": 4.39,
+      "averageDistance": 2.081561558005465,
+      "percentEscaped": 0.16245
+    },
+    {
+      "radius": 4.4,
+      "averageDistance": 2.08184229962284,
+      "percentEscaped": 0.15224
+    },
+    {
+      "radius": 4.41,
+      "averageDistance": 2.081773606645684,
+      "percentEscaped": 0.14323999999999998
+    },
+    {
+      "radius": 4.42,
+      "averageDistance": 2.0819528439046104,
+      "percentEscaped": 0.13301000000000002
+    },
+    {
+      "radius": 4.43,
+      "averageDistance": 2.0810441280648106,
+      "percentEscaped": 0.12343
+    },
+    {
+      "radius": 4.44,
+      "averageDistance": 2.081764382353237,
+      "percentEscaped": 0.11728999999999999
+    },
+    {
+      "radius": 4.45,
+      "averageDistance": 2.081807715446246,
+      "percentEscaped": 0.10931999999999999
+    },
+    {
+      "radius": 4.46,
+      "averageDistance": 2.081700262872585,
+      "percentEscaped": 0.10032
+    },
+    {
+      "radius": 4.47,
+      "averageDistance": 2.0820856318198606,
+      "percentEscaped": 0.09355000000000001
+    },
+    {
+      "radius": 4.48,
+      "averageDistance": 2.0812792550323698,
+      "percentEscaped": 0.08761
+    },
+    {
+      "radius": 4.49,
+      "averageDistance": 2.0816088975337204,
+      "percentEscaped": 0.0804
+    },
+    {
+      "radius": 4.5,
+      "averageDistance": 2.082047763710275,
+      "percentEscaped": 0.07586
+    },
+    {
+      "radius": 4.51,
+      "averageDistance": 2.081534982457368,
+      "percentEscaped": 0.06932
+    },
+    {
+      "radius": 4.5200000000000005,
+      "averageDistance": 2.081942950158394,
+      "percentEscaped": 0.06380999999999999
+    },
+    {
+      "radius": 4.53,
+      "averageDistance": 2.0817069151340415,
+      "percentEscaped": 0.05955
+    },
+    {
+      "radius": 4.54,
+      "averageDistance": 2.0814024372151807,
+      "percentEscaped": 0.05425
+    },
+    {
+      "radius": 4.55,
+      "averageDistance": 2.0818677466140434,
+      "percentEscaped": 0.05103
+    },
+    {
+      "radius": 4.5600000000000005,
+      "averageDistance": 2.081655059748526,
+      "percentEscaped": 0.04508
+    },
+    {
+      "radius": 4.57,
+      "averageDistance": 2.081969606619846,
+      "percentEscaped": 0.04133
+    },
+    {
+      "radius": 4.58,
+      "averageDistance": 2.081806027938539,
+      "percentEscaped": 0.03839
+    },
+    {
+      "radius": 4.59,
+      "averageDistance": 2.08191620918185,
+      "percentEscaped": 0.03411
+    },
+    {
+      "radius": 4.6000000000000005,
+      "averageDistance": 2.0815166692526277,
+      "percentEscaped": 0.031799999999999995
+    },
+    {
+      "radius": 4.61,
+      "averageDistance": 2.0816270743290284,
+      "percentEscaped": 0.02768
+    },
+    {
+      "radius": 4.62,
+      "averageDistance": 2.0811913829188327,
+      "percentEscaped": 0.025670000000000002
+    },
+    {
+      "radius": 4.63,
+      "averageDistance": 2.0814571992395825,
+      "percentEscaped": 0.023020000000000002
+    },
+    {
+      "radius": 4.64,
+      "averageDistance": 2.0812102322352337,
+      "percentEscaped": 0.02016
+    },
+    {
+      "radius": 4.65,
+      "averageDistance": 2.0816210424155277,
+      "percentEscaped": 0.01884
+    },
+    {
+      "radius": 4.66,
+      "averageDistance": 2.0813202580837085,
+      "percentEscaped": 0.01638
+    },
+    {
+      "radius": 4.67,
+      "averageDistance": 2.0818417698468275,
+      "percentEscaped": 0.0146
+    },
+    {
+      "radius": 4.68,
+      "averageDistance": 2.0813541825856516,
+      "percentEscaped": 0.013019999999999999
+    },
+    {
+      "radius": 4.69,
+      "averageDistance": 2.081860842472455,
+      "percentEscaped": 0.01182
+    },
+    {
+      "radius": 4.7,
+      "averageDistance": 2.081673296929843,
+      "percentEscaped": 0.00997
+    },
+    {
+      "radius": 4.71,
+      "averageDistance": 2.081253534672174,
+      "percentEscaped": 0.00854
+    },
+    {
+      "radius": 4.72,
+      "averageDistance": 2.081289411153964,
+      "percentEscaped": 0.00736
+    },
+    {
+      "radius": 4.73,
+      "averageDistance": 2.081035087246153,
+      "percentEscaped": 0.006449999999999999
+    },
+    {
+      "radius": 4.74,
+      "averageDistance": 2.0817522626942897,
+      "percentEscaped": 0.0059700000000000005
+    },
+    {
+      "radius": 4.75,
+      "averageDistance": 2.0812517546179023,
+      "percentEscaped": 0.0049
+    },
+    {
+      "radius": 4.76,
+      "averageDistance": 2.0816328637789545,
+      "percentEscaped": 0.00403
+    },
+    {
+      "radius": 4.7700000000000005,
+      "averageDistance": 2.0817054121789695,
+      "percentEscaped": 0.00343
+    },
+    {
+      "radius": 4.78,
+      "averageDistance": 2.081848075464235,
+      "percentEscaped": 0.0031699999999999996
+    },
+    {
+      "radius": 4.79,
+      "averageDistance": 2.0815918120485613,
+      "percentEscaped": 0.00237
+    },
+    {
+      "radius": 4.8,
+      "averageDistance": 2.0819932076481074,
+      "percentEscaped": 0.0020800000000000003
+    },
+    {
+      "radius": 4.8100000000000005,
+      "averageDistance": 2.0816030835754,
+      "percentEscaped": 0.0015699999999999998
+    },
+    {
+      "radius": 4.82,
+      "averageDistance": 2.0818784109979056,
+      "percentEscaped": 0.00159
+    },
+    {
+      "radius": 4.83,
+      "averageDistance": 2.0821366070187226,
+      "percentEscaped": 0.00108
+    },
+    {
+      "radius": 4.84,
+      "averageDistance": 2.08180807103481,
+      "percentEscaped": 0.0007700000000000001
+    },
+    {
+      "radius": 4.8500000000000005,
+      "averageDistance": 2.0814549179598134,
+      "percentEscaped": 0.00062
+    },
+    {
+      "radius": 4.86,
+      "averageDistance": 2.081656049975477,
+      "percentEscaped": 0.0005200000000000001
+    },
+    {
+      "radius": 4.87,
+      "averageDistance": 2.081510571670104,
+      "percentEscaped": 0.00041
+    },
+    {
+      "radius": 4.88,
+      "averageDistance": 2.0815247588256476,
+      "percentEscaped": 0.00027
+    },
+    {
+      "radius": 4.89,
+      "averageDistance": 2.0814196539986423,
+      "percentEscaped": 0.00019
+    },
+    {
+      "radius": 4.9,
+      "averageDistance": 2.0815382735290116,
+      "percentEscaped": 0.00017999999999999998
+    },
+    {
+      "radius": 4.91,
+      "averageDistance": 2.08182603109827,
+      "percentEscaped": 0.00011
+    },
+    {
+      "radius": 4.92,
+      "averageDistance": 2.082043526700491,
+      "percentEscaped": 0.00007999999999999999
+    },
+    {
+      "radius": 4.93,
+      "averageDistance": 2.081906820172904,
+      "percentEscaped": 0.000019999999999999998
+    },
+    {
+      "radius": 4.94,
+      "averageDistance": 2.081807103609207,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 4.95,
+      "averageDistance": 2.0817464303319833,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 4.96,
+      "averageDistance": 2.0821474045319914,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 4.97,
+      "averageDistance": 2.0816825472375724,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 4.98,
+      "averageDistance": 2.08140862206958,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 4.99,
+      "averageDistance": 2.08153641481141,
+      "percentEscaped": 0
+    },
+    {
+      "radius": 5,
+      "averageDistance": 2.0815292063795274,
+      "percentEscaped": 0
+    }
+  ]
+}
