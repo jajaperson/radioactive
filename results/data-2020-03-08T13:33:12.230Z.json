@@ -1,0 +1,33 @@
+{
+  "date": "2020-03-08T13:33:12.230Z",
+  "steps": 5,
+  "sampleSize": 1000000,
+  "significantFigures": 1,
+  "results": [
+    {
+      "radius": 1,
+      "averageDistance": 1,
+      "percentEscaped": 100
+    },
+    {
+      "radius": 2,
+      "averageDistance": 1.9708762928908194,
+      "percentEscaped": 62.9499
+    },
+    {
+      "radius": 3,
+      "averageDistance": 2.0741430587693994,
+      "percentEscaped": 16.193099999999998
+    },
+    {
+      "radius": 4,
+      "averageDistance": 2.082217908722136,
+      "percentEscaped": 1.1044999999999998
+    },
+    {
+      "radius": 5,
+      "averageDistance": 2.0814858752608134,
+      "percentEscaped": 0
+    }
+  ]
+}
